@@ -10,7 +10,7 @@ export default function Home() {
         <div className="container hero-content">
           <div>
             <span className="hero-kicker">NEW COLLECTION 2026</span>
-            <h1>Everything you need.<br /><em>All in one place.</em></h1>
+            <h1>Everything you need.<br /><em>All in one places.</em></h1>
             <p>Discover products made for modern everyday life, from tech essentials to fashion and home.</p>
             <Link to="/products" className="primary-btn">Shop Collection →</Link>
           </div>
